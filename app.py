@@ -14,7 +14,7 @@ from langchain_community.document_loaders import PyPDFDirectoryLoader
 
 # load the groq api key
 # groq_api_key = os.getenv('GROQ_API_KEY')
-groq_api_key = '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'
+groq_api_key = '' #Groq API key here
 # 
 st.title('ChatGroq with DeepSeek R1')
 
